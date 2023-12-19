@@ -10,5 +10,5 @@ const ids=student.map(s=>s.id);
 console.log(ids);
 const bigger=student.find(s=>s.id>101);
 const biggerOne=student.filter(s=>s.id>102);
-console.log(bigger)
-console.log(biggerOne)
+console.log(bigger);
+console.log(biggerOne);
